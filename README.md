@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awab-yahia&label=Profile%20views&color=0e75b6&style=flat" alt="awab-yahia" /> </p>
 
-- 🔭 I’m currently working on [X-One Shipping](https://play.google.com/store/apps/details?id=com.shipping.xone&hl=en_US)
-
-- 🌱 I’m currently learning **laravel-php**
+- 🔭 I’m currently working on [Nawy](https://play.google.com/store/apps/details?id=sa.nawy.user)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/awab-yahia-b99214228/](https://www.linkedin.com/in/awab-yahia-b99214228/)
 
